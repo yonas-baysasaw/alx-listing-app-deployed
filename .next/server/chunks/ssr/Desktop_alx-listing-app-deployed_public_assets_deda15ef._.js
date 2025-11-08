@@ -1,0 +1,3 @@
+module.exports=[4236,a=>{a.v("/_next/static/media/Case Minimalistic.3aa5cb85.png")},9620,a=>{a.v("/_next/static/media/alx_logo_black.cd1c3945.png")},2603,a=>{a.v("/_next/static/media/search.618fc861.png")},7484,a=>{a.v("/_next/static/media/profile.14883d7d.png")},7637,a=>{a.v("/_next/static/media/alx-logo.00de8f3e.png")}];
+
+//# sourceMappingURL=Desktop_alx-listing-app-deployed_public_assets_deda15ef._.js.map

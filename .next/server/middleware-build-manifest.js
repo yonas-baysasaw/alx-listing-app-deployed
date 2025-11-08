@@ -1,31 +1,35 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
     "/": [
-      "static/chunks/[root-of-the-server]__e03a40e6._.js",
-      "static/chunks/71ae4_next_dist_compiled_next-devtools_index_32c5c93a.js",
-      "static/chunks/71ae4_next_dist_compiled_61725ca3._.js",
-      "static/chunks/71ae4_next_dist_shared_lib_73793b8d._.js",
-      "static/chunks/71ae4_next_dist_client_bbed5ce2._.js",
-      "static/chunks/71ae4_next_dist_9eb19b7b._.js",
-      "static/chunks/71ae4_next_image_847c9f4d.js",
-      "static/chunks/71ae4_react-dom_5c3dc3f9._.js",
-      "static/chunks/71ae4_2da893c7._.js",
-      "static/chunks/Desktop_alx-listing-app-deployed_pages_index_2da965e7._.js",
-      "static/chunks/turbopack-Desktop_alx-listing-app-deployed_pages_index_deb2cb59._.js"
+      "static/chunks/4b51064fd38f2073.js",
+      "static/chunks/f4f069f6fc361c83.js",
+      "static/chunks/3f960bdf1d0bfe6e.js",
+      "static/chunks/turbopack-958d36caf395260f.js"
     ],
     "/_app": [
-      "static/chunks/71ae4_next_dist_compiled_next-devtools_index_32c5c93a.js",
-      "static/chunks/71ae4_next_dist_compiled_61725ca3._.js",
-      "static/chunks/71ae4_next_dist_shared_lib_73793b8d._.js",
-      "static/chunks/71ae4_next_dist_client_bbed5ce2._.js",
-      "static/chunks/71ae4_next_dist_9eb19b7b._.js",
-      "static/chunks/71ae4_next_image_847c9f4d.js",
-      "static/chunks/71ae4_react-dom_5c3dc3f9._.js",
-      "static/chunks/71ae4_2da893c7._.js",
-      "static/chunks/[root-of-the-server]__d922baa7._.js",
-      "static/chunks/Desktop_alx-listing-app-deployed_styles_globals_237c7512.css",
-      "static/chunks/Desktop_alx-listing-app-deployed_pages__app_2da965e7._.js",
-      "static/chunks/turbopack-Desktop_alx-listing-app-deployed_pages__app_08f249dd._.js"
+      "static/chunks/664d23635436ab65.js",
+      "static/chunks/f4f069f6fc361c83.js",
+      "static/chunks/3f960bdf1d0bfe6e.js",
+      "static/chunks/8c36a7c38763130c.css",
+      "static/chunks/turbopack-2079cd03f0f46870.js"
+    ],
+    "/_error": [
+      "static/chunks/b4a5e8a9e2b90bb0.js",
+      "static/chunks/f4f069f6fc361c83.js",
+      "static/chunks/3f960bdf1d0bfe6e.js",
+      "static/chunks/turbopack-2b4f954549616760.js"
+    ],
+    "/booking": [
+      "static/chunks/6d196828ef10147c.js",
+      "static/chunks/f4f069f6fc361c83.js",
+      "static/chunks/3f960bdf1d0bfe6e.js",
+      "static/chunks/turbopack-02086c8e7f98f94c.js"
+    ],
+    "/property/[id]": [
+      "static/chunks/e86d0a922fb2aaac.js",
+      "static/chunks/f4f069f6fc361c83.js",
+      "static/chunks/3f960bdf1d0bfe6e.js",
+      "static/chunks/turbopack-b4046864a85663c3.js"
     ]
   },
   "devFiles": [],

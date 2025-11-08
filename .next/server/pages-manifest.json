@@ -1,5 +1,10 @@
 {
-  "/": "pages/index.js",
+  "/": "pages/index.html",
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/booking": "pages/booking.html",
+  "/property/[id]": "pages/property/[id].html",
+  "/404": "pages/404.html"
 }
